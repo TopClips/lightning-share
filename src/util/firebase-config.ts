@@ -1,6 +1,6 @@
 const firebaseConfig = {
     apiKey: "AIzaSyBPpXp_LR8LPXaUorEcNMQTPajC-EUlCxQ",
-    authDomain: "lightshare-85f34.firebaseapp.com",
+    authDomain: "https://lightshare.vercel.app",
     projectId: "lightshare-85f34",
     storageBucket: "lightshare-85f34.appspot.com",
     messagingSenderId: "365219970137",
