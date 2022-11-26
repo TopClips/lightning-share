@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBhBG20f1fN8J09DVULatKG4id40ShpDys",
-  authDomain: "lightning-share.firebaseapp.com",
-  databaseURL: "https://lightning-share.firebaseio.com",
-  projectId: "lightning-share",
-  storageBucket: "lightning-share.appspot.com",
-  messagingSenderId: "847896200207",
-  appId: "1:847896200207:web:544b6eae129b6cdb",
-};
+    apiKey: "AIzaSyBPpXp_LR8LPXaUorEcNMQTPajC-EUlCxQ",
+    authDomain: "lightshare-85f34.firebaseapp.com",
+    projectId: "lightshare-85f34",
+    storageBucket: "lightshare-85f34.appspot.com",
+    messagingSenderId: "365219970137",
+    appId: "1:365219970137:web:b5d4c45b671cafa1048548",
+    measurementId: "G-G1WC97ZL0E"
+  };
 
 export default firebaseConfig;
